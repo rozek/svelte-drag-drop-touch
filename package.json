@@ -1,0 +1,34 @@
+{
+  "name": "svelte-drag-drop-touch",
+  "version": "0.1.0",
+  "description": "HTML5 Drag-and-Drop support for mobile devices",
+  "main": "svelte-drag-drop-touch.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rozek/svelte-drag-drop-touch.git"
+  },
+  "keywords": [
+    "svelte",
+    "svelte3",
+    "drag",
+    "drop",
+    "touch",
+    "mobile"
+  ],
+  "author": "Andreas Rozek <a.rozek@gmx.de> (https://www.rozek.de/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rozek/svelte-drag-drop-touch/issues"
+  },
+  "homepage": "https://github.com/rozek/svelte-drag-drop-touch#readme",
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^8.2.1",
+    "rimraf": "^3.0.2",
+    "rollup": "^2.51.2",
+    "rollup-plugin-terser": "^7.0.2",
+    "typescript": "^4.3.2"
+  }
+}
