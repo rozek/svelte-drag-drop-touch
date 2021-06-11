@@ -39,4 +39,5 @@ Additional, more detailled examples may be found below.
 ### Additional Examples ###
 
 * [Drop- and No-Drop-Zones](https://svelte.dev/repl/49e42554b5c844c3a7f10aa4b997e969) - look where the events are sent to
+* [plain Dragging](https://svelte.dev/repl/9cec631684f34f20ac04ddca57e9eb77) - could be used to combine plain dragging with drag-and-drop
 
