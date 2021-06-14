@@ -1,3 +1,3 @@
-  import DragDropTouch from 'dragdroptouch-bug-fixed'
-  
+  import DragDropTouch from './DragDropTouch.js'
+
   export default DragDropTouch.DragDropTouch
