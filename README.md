@@ -1,6 +1,6 @@
 # svelte-drag-drop-touch #
 
-HTML5 Drag-and-Drop support for mobile devices
+HTML5 Drag-and-Drop support for mobile devices (not only for Svelte)
  
 **NPM users**: please consider the [Github README](https://github.com/rozek/svelte-viewport-info/blob/main/README.md) for the latest description of this package (as updating the docs would otherwise always require a new NPM package version)
 
@@ -40,4 +40,4 @@ Additional, more detailled examples may be found below.
 
 * [Drop- and No-Drop-Zones](https://svelte.dev/repl/49e42554b5c844c3a7f10aa4b997e969) - look where the events are sent to
 * [plain Dragging](https://svelte.dev/repl/9cec631684f34f20ac04ddca57e9eb77) - could be used to combine plain dragging with drag-and-drop
-
+* [Flicking](https://svelte.dev/repl/ccac277ec864437a83fb7eae27168f99) - illustrates a simple approach to "flicking"
