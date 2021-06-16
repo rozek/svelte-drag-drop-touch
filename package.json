@@ -3,9 +3,9 @@
   "version": "0.1.3",
   "description": "HTML5 Drag-and-Drop support for mobile devices",
   "type": "module",
-  "module": "./svelte-drag-drop-touch.esm.js",
+  "module": "./dist/svelte-drag-drop-touch.esm.js",
   "exports": {
-    "import": "./svelte-drag-drop-touch.esm.js"
+    "import": "./dist/svelte-drag-drop-touch.esm.js"
   },
   "scripts": {
     "build": "rimraf dist && tsc && rollup -c rollup.config.js",
