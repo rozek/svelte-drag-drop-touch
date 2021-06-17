@@ -16,11 +16,10 @@
     "url": "git+https://github.com/rozek/svelte-drag-drop-touch.git"
   },
   "keywords": [
-    "svelte",
-    "svelte3",
-    "drag",
-    "drop",
-    "touch",
+    "html5-drag",
+    "polyfill",
+    "touch-events",
+    "mouse-emulation",
     "mobile"
   ],
   "author": "Andreas Rozek <a.rozek@gmx.de> (https://www.rozek.de/)",
