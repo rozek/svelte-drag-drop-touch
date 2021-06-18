@@ -41,3 +41,14 @@ Additional, more detailled examples may be found below.
 * [Drop- and No-Drop-Zones](https://svelte.dev/repl/49e42554b5c844c3a7f10aa4b997e969) - look where the events are sent to
 * [plain Dragging](https://svelte.dev/repl/9cec631684f34f20ac04ddca57e9eb77) - could be used to combine plain dragging with drag-and-drop
 * [Flicking](https://svelte.dev/repl/ccac277ec864437a83fb7eae27168f99) - illustrates a simple approach to "flicking"
+
+### Build Instructions ###
+
+You may easily build this package yourself.
+
+Just install [NPM](https://docs.npmjs.com/) according to the instructions for your platform and follow these steps:
+
+1. either clone this repository using [git](https://git-scm.com/) or [download a ZIP archive](https://github.com/rozek/svelte-drag-drop-touch/archive/refs/heads/main.zip) with its contents to your disk and unpack it there 
+2. open a shell and navigate to the root directory of this repository
+3. run `npm install` in order to install the complete build environment
+4. execute `npm run build` to create a new build
