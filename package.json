@@ -7,6 +7,7 @@
   "exports": {
     "import": "./dist/svelte-drag-drop-touch.esm.js"
   },
+  "types": "./dist/svelte-drag-drop-touch.d.ts",
   "scripts": {
     "build": "rimraf dist && tsc && rollup -c rollup.config.js && mv src/*.d.ts dist && rm src/*.js",
     "test": "echo \"Error: no test specified\" && exit 1"
