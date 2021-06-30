@@ -4,6 +4,7 @@
   "description": "HTML5 Drag-and-Drop support for mobile devices",
   "type": "module",
   "module": "./dist/svelte-drag-drop-touch.esm.js",
+  "svelte": "./dist/svelte-drag-drop-touch.esm.js",
   "exports": {
     "import": "./dist/svelte-drag-drop-touch.esm.js"
   },
