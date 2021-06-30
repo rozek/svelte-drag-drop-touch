@@ -1,6 +1,6 @@
 {
   "name": "svelte-drag-drop-touch",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "HTML5 Drag-and-Drop support for mobile devices",
   "type": "module",
   "module": "./dist/svelte-drag-drop-touch.esm.js",
