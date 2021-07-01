@@ -6,19 +6,37 @@ HTML5 Drag-and-Drop support for mobile devices (not only for Svelte)
 
 ## Installation ##
 
+`svelte-drag-drop-touch` may be used as an ESM, CommonJS or AMD module or from a global variable.
+
+You may either install the package into your build environment using [NPM](https://docs.npmjs.com/) with the command
+
 ```
 npm install svelte-drag-drop-touch
 ```
 
-## Usage ##
+or load the plain script file directly
 
 ```
-<script>
+<script src="https://unpkg.com/svelte-drag-drop-touch"></script>
+```
+
+## Access ##
+
+When used with Svelte, you should always import the package in a module context:
+
+```
+<script context="module">
   import DragDropTouch from 'svelte-drag-drop-touch'
 </script>
 ```
 
-from then on, HTML5 Drag-and-Drop may also be used on mobile devices.
+Otherwise, the kind of import depends on the type of module you prefer. 
+ 
+* ESM: `import DragDropTouch from 'svelte-drag-drop-touch'`
+* CommonJS: `const DragDropTouch = require('svelte-drag-drop-touch')`
+* AMD: `require(['svelte-drag-drop-touch'], (DragDropTouch) => {...})`
+
+In any case, a simple import is all you need to use HTML5 Drag-and-Drop on mobile devices - (apart from handling DragEvents) there is no extra programming required.
 
 ## Example ##
 
