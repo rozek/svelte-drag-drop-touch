@@ -3,7 +3,7 @@
   "version": "0.1.8",
   "description": "HTML5 Drag-and-Drop support for mobile devices",
   "type": "module",
-  "browser": "./dist/svelte-drag-drop-touch.esm.js",
+  "browser": "./dist/svelte-drag-drop-touch.bundled.js",
   "module": "./dist/svelte-drag-drop-touch.esm.js",
   "svelte": "./dist/svelte-drag-drop-touch.esm.js",
   "types": "./dist/svelte-drag-drop-touch.d.ts",
