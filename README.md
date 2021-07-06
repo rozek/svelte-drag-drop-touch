@@ -22,7 +22,7 @@ or load the plain script file directly
 
 ## Access ##
 
-When used with Svelte, you should always import the package in a module context:
+When used within Svelte, you should always import the package in a module context:
 
 ```
 <script context="module">
