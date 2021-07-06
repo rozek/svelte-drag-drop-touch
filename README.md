@@ -6,7 +6,7 @@ HTML5 Drag-and-Drop support for mobile devices (not only for Svelte)
 
 ## Installation ##
 
-`svelte-drag-drop-touch` may be used as an ESM, CommonJS or AMD module or from a global variable.
+`svelte-drag-drop-touch` may be used as an ECMAScript module (ESM), a CommonJS or AMD module or from a global variable.
 
 You may either install the package into your build environment using [NPM](https://docs.npmjs.com/) with the command
 
