@@ -18,7 +18,7 @@ npm install svelte-drag-drop-touch
 
 or load the plain script file directly
 
-```
+```html
 <script src="https://unpkg.com/svelte-drag-drop-touch"></script>
 ```
 
@@ -26,7 +26,7 @@ or load the plain script file directly
 
 When used within Svelte, you should always import the package in a module context:
 
-```
+```html
 <script context="module">
   import DragDropTouch from 'svelte-drag-drop-touch'
 </script>
